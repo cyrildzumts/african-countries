@@ -1,0 +1,7 @@
+Country
+-
+- Region / Provinces / Etats
+  - Departements / Subregion
+  	- Communes / Arondissements / Ville
+  		- Quartiers / Banlieues[optional]
+
