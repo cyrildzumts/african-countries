@@ -1,0 +1,7 @@
+Country
+-
+- Region / Provinces / Etats
+  - Departements
+  	- Communes / Arondissements
+  		- Quartiers / Banlieues
+  - chef lieu
